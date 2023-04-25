@@ -4,6 +4,12 @@
 
 Modified starter code to create an application called Note Taker that can be used to write and save notes using Express.js back end to retrieve note data from a JSON file.
 
+Deployed Heroku link: https://infinite-shelf-10864.herokuapp.com/
+
+Github link: https://github.com/AthenaBW/glowing-carnival
+
+
+![Alt text](public/assets/Screenshot%202023-04-25%20153220.png)
 
 ## Installation
 
